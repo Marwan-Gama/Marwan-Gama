@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=GenadyKogan&label=PROFILE+VIEWS)
+
+
 ## Contact me at:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marwan-gama/) <br />
 ## Employment
