@@ -13,10 +13,10 @@
 📫 How to reach me: marwanabugama2000@gmail.com
 
 ## Employment
-  Software Academic staff at Sami Shamooon College of Engineering
+  Software Academic staff at Sami Shamooon College of Engineering.
 ## Education:
-2020 to 2024	B.Sc – Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israel
+2020 to 2024	B.Sc – Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israel.
 
 ## Work Skills
-  C | C++ | Python | Java | Cyber Security 
+  C | C++ | Python | Java | Cyber Security | JavaScript | CSS | Html | MERN Stack.
 
