@@ -29,7 +29,7 @@
 
 ### 📚 Education
 - **B.Sc in Software Engineering** (2020-2024)  
-  **Sami Shamoon College of Engineering**, Beersheba, Israel (Current GPA: 82.3)
+  **Sami Shamoon College of Engineering**, Beersheba, Israel 
 - **Moshal Program Member** (2020-Present)  
   Participating in a unique program that equips students with advanced academic and professional skills.
 - **Udemy Courses**: Web Development Bootcamp, Git & GitHub, HTML, CSS, and JavaScript.
