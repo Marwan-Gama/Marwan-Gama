@@ -67,7 +67,7 @@ Passionate about **clean, scalable code**, problem-solving, and delivering high-
 📧 **Email**: [marwanabugama2000@gmail.com](mailto:marwanabugama2000@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/marwan-gama](https://www.linkedin.com/in/marwan-gama/)  
 🖥 **GitHub**: [github.com/Marwan-gama](https://github.com/Marwan-gama)  
-🌐 **Portfolio**: *[[Portfolio](https://www.marwan-dev.com/)]*  
+🌐 **Portfolio**: *[[https://www.marwan-dev.com/](https://www.marwan-dev.com/)]*  
 
 
 ### 💻 Technical Skills & Tools
