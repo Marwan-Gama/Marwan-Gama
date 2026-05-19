@@ -2,7 +2,7 @@
 
 🚀 Software Engineer | Backend | DevOps  
 
-I build real systems from code → production.
+I build real systems from code.
 
 ---
 
@@ -16,7 +16,7 @@ I build real systems from code → production.
 ## 🛠 Tech Stack
 **Languages:** Java, C/C++, C#, Python, JavaScript  
 **Backend:** Node.js, .NET Core, Flask, PHP  
-**Frontend:** React  
+**Frontend:** React, Flutter
 **Databases:** MySQL, MongoDB, SQL Server  
 **DevOps:** AWS, Docker, Linux, Apache, Git, Jenkins  
 
@@ -31,7 +31,8 @@ I build real systems from code → production.
 ---
 
 ## 🚀 Projects
-- **ASAL Platform** – SaaS workforce system  
+- **ASAL Platform** – SaaS workforce system
+- **Wadili** –  Delivery System 
 - **LearnUp** – Educational mobile app (Java, Firebase)  
 - **Full-Stack App** – .NET Core + SQL Server  
 
